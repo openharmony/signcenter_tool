@@ -1,7 +1,7 @@
 {
     "name": "@ohos/signcenter_tool",
     "version": "",
-    "description": "",
+    "description": "Provide a binary tool (hapsigntoolv2.jar) for signing OpenHarmony system applications. | 提供二进制签名工具（hapsigntoolv2.jar），用于OpenHarmony应用签名。",
     "homePage": "https://gitee.com/openharmony",
     "license": "END USER LICENSE AGREEMENT",
     "repository": "https://gitee.com/openharmony/signcenter_tool",
