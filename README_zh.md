@@ -1,3 +1,5 @@
+# 此仓已废弃，请前往新仓 [developtool_hapsigner](https://gitee.com/openharmony/developtools_hapsigner)
+
 # 签名工具仓<a name="ZH-CN_TOPIC_0000001086718894"></a>
 
 -   [简介](#section11660541593)
