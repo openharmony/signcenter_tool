@@ -1,3 +1,5 @@
+# This project has been abandoned. Please visit the new project [developtool_hapsigner](https://gitee.com/openharmony/developtools_hapsigner)
+
 # signcenter\_tool<a name="EN-US_TOPIC_0000001086718894"></a>
 
 -   [Introduction](#section11660541593)
